@@ -10,7 +10,7 @@ then run this command to start the server:
 ```  python -m uvicorn main:app --reload```
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tXjlzggtncU)
 
 # Network Communication
 
